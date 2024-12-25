@@ -1,0 +1,108 @@
+nav {
+    width: 1140px;
+    height: 72px;
+}
+
+#logo {
+    margin-left: 60px;
+    display: inline-block;
+    width: 173.66px;
+    vertical-align: middle;
+}
+
+#paragraph {
+    margin-left: 120px;
+    display: inline-block;
+    width: 343px;
+    gap: 20px;
+    opacity: 1px;
+}
+
+#paragraph a {
+    display: inline-block;
+    text-decoration: none;
+    color: #323232;
+    margin-left: 20px;
+    font-size: 18px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+}
+
+
+#button {
+    margin-left: 120px;
+    display: inline-block;
+    width: 105px;
+    height: 33px;
+    padding: 8px 16px 8px 16px;
+    gap: 10px;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px 1px 1px 1px;
+    opacity: 1px;
+    border-color: #AC00FF;
+    background-color: #E9D7FE;
+    color: #AC00FF;
+    cursor: pointer;
+}
+
+main {
+    width: 841px;
+    gap: 24px;
+    opacity: 1px;
+    margin-left: 160px;
+
+}
+
+main h1 {
+    font-family: Impact;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 74px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    width: 720px;
+    height: 148px;
+    gap: 0px;
+    opacity: 0px;
+    color: #323232;
+}
+
+main p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: #323232;
+}
+
+#buttonone {
+    width: 204px;
+    height: 54px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    border: 2px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 1px;
+    border-color: #5C3BAE;
+    background-color: #5C3BAE;
+    color: white;
+    cursor: pointer;
+}
+
+#play {
+    padding-left: 40px;
+    vertical-align: middle;
+}
+
+main a {
+    color: #4D3491;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: none;
+}
